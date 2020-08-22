@@ -12,6 +12,7 @@ header{
   font-size: 165px;
   margin-top: 0.5px;
   margin-bottom: 0px;
+  text-align: center;
 }
 .k2{
   color: royalblue;
@@ -19,6 +20,7 @@ header{
   font-size: 165px;
   margin-top: -90px;
   margin-bottom: 0;
+  text-align: center;
 }
 .c{
   color: black;
@@ -29,6 +31,7 @@ header{
   font-family: Сomic Sans MS, cursive;
   font-size: 20px;
   margin-top: -20px;
+  text-align: center;
 }
 .ci{
   color: royalblue;
@@ -43,6 +46,7 @@ header{
 .bl{
   color: darkturquoise;
    font-size: 25px;
+   text-align: right;
 }
 .jul{
   color: royalblue;
@@ -54,15 +58,18 @@ header{
 }
 .bl2{
   margin-top: -20px;
+  text-align: right;
 }
 .e{
   color: royalblue;
   font-size: 25px;
+  text-align: right;
 }
 .u{
   color: darkturquoise;
    font-size: 15px;
    margin-top: -20px;
+   text-align: right;
 }
 .mih{
   color: royalblue;
@@ -76,6 +83,9 @@ header{
  img {
   margin-right: 10px;
   margin-bottom: 10px;
+  }
+  .im{
+  text-align: right;
   }
 footer {
   background-color: darkturquoise;
